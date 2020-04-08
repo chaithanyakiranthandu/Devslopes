@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Devslopes</string>
+    <string name="homeBanner">banner</string>
+    <string name="title">Devslopes</string>
+    <string name="logo">devslopeslogo</string>
+    <string name="video">video</string>
+    <string name="code">code</string>
+    <string name="gallery">gallery</string>
+    <string name="trends">trends</string>
+    <string name="startsmall">star</string>
+    <string name="camerasmall">camera</string>
+    <string name="savesmall">save</string>
+</resources>
